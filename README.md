@@ -103,9 +103,4 @@ change a transaction the ledger, trial balance, statements and package all follo
 
 ---
 
-## Suggested next steps
 
-1. Take the workbook into Tally Prime or Zoho Books and re-key a sample month to compare the
-   accrual postings — the journal here is the specification.
-2. Add a 2026 column and roll the accruals and prepayments forward.
-3. Build a simple budget-vs-actual variance on the package sheet.
